@@ -1,4 +1,6 @@
-class Database2:
+from src.interfaces import database
+
+class Database2(database):
 
     def insert_something_into_database(self):
         print('Inserting something')
