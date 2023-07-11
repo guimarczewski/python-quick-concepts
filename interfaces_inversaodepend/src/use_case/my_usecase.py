@@ -1,5 +1,5 @@
 from typing import Type
-from src.interface import database
+from src.interfaces import database
 
 class MyUsecase:
 
