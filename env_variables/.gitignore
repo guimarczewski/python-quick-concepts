@@ -1,1 +1,2 @@
-.env
+# .env
+# nesse caso o arquivo .env seria incluso no .gitignore para não ficar exposto, devendo ser salvo em outro local
