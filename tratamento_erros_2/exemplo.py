@@ -9,7 +9,7 @@ def calculate(num1, num2):
     return result
 
 try:
-    response = calculate(1,0)
+    response = calculate(1,1)
     print(response)
 except Exception as exception:
     error_handler_method(exception)
